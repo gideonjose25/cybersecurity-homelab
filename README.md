@@ -2,7 +2,7 @@
 
 Gideon Jose — Networking & Telecom → SOC Analyst
 
-CompTIA Security+ (DoD 8570) | CCNA | 10+ years enterprise & telecom experience
+CompTIA Security+ | CCNA | 10+ years enterprise & telecom experience
 
 ---
 
