@@ -29,6 +29,7 @@ This repository documents my hands-on cybersecurity training journey as I transi
 | Apr 3, 2026 | Brute Force Investigation | TryHackMe SIEM | Malicious IP 221.181.185.159 — port 22 brute force → successful SSH login |
 | Apr 4, 2026 | Alert Triage (3 alerts) | TryHackMe SIEM | True/False positive classification using context analysis |
 | Apr 5, 2026 | SPL Log Analysis | Splunk | Detected brute force attack chain and post-exploitation /etc/passwd access |
+| May 24, 2026 | Phishing Analysis Fundamentals | TryHackMe, CyberChef, Thunderbird | Email header analysis, base64 attachment decoding, display name spoofing detection |
 
 ---
 
@@ -38,13 +39,14 @@ This repository documents my hands-on cybersecurity training journey as I transi
 - ✅ SOC Role in Blue Team
 - ✅ SOC Fundamentals
 - ✅ SOC L1 Alert Triage
-- 🔄 SOC L1 Alert Reporting (next)
+- ✅ SOC L1 Alert Reporting
+- ✅ Phishing Analysis Fundamentals
 
 ---
 
 ## Certifications
 
-- CompTIA Security+ (DoD 8570 compliant)
+- CompTIA Security+ 
 - Cisco CCNA
 - BS Information Technology: Data Networking & Security — Liberty University (May 2028)
 
