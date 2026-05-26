@@ -30,7 +30,11 @@ This repository documents my hands-on cybersecurity training journey as I transi
 | Apr 4, 2026 | Alert Triage (3 alerts) | TryHackMe SIEM | True/False positive classification using context analysis |
 | Apr 5, 2026 | SPL Log Analysis | Splunk | Detected brute force attack chain and post-exploitation /etc/passwd access |
 | May 24, 2026 | Phishing Analysis Fundamentals | TryHackMe, CyberChef, Thunderbird | Email header analysis, base64 attachment decoding, display name spoofing detection |
-
+### Lab 2 — OSINT IOC Enrichment
+- Investigated malicious IP 185.220.101.47 using VirusTotal and AbuseIPDB
+- Identified Tor exit node with 100% abuse confidence and 9 vendor detections
+- Documented full Tier 1 SOC response workflow
+- [View Lab](labs/osint-ioc-investigation/lab-osint-ioc-investigation.md)
 ---
 
 ## TryHackMe Progress
