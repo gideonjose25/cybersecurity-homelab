@@ -1,8 +1,8 @@
 # 🛡️ Cybersecurity Home Lab
 
-Gideon Jose — Networking & Telecom → SOC Analyst
+Gideon Jose — Cybersecurity & IT Professional  
 
-CompTIA Security+ | CCNA | 10+ years enterprise & telecom experience
+CompTIA Security+ | CCNA | 10+ years enterprise & Telecom experience | SOC Home Lab
 
 ---
 
