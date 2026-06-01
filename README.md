@@ -8,17 +8,19 @@ CompTIA Security+ | CCNA | 10+ years enterprise & Telecom experience | SOC Home 
 
 ## About This Lab
 
-This repository documents my hands-on cybersecurity training journey as I transition from network engineering into a SOC Analyst role. Every exercise, finding, and tool is documented here — both as a portfolio for employers and as a resource for others making the same transition.
+This repository documents my hands-on cybersecurity training journey as I work as a Data Center Technician and build toward a SOC Analyst role. Every OSINT investigation, threat analysis, Splunk query, and tool exercise is documented here — both as a portfolio for employers and as a resource for anyone trying to break into IT and cybersecurity.
 
 ---
 
 ## Tools & Environment
 
-- **OS:** Kali Linux 2026.1 (ARM64 via UTM on macOS)
+- **OS:** Kali Linux (ARM64 via UTM on macOS)
 - **SIEM:** Splunk Enterprise (Docker)
+- **Threat Intelligence:** VirusTotal, AbuseIPDB
 - **Network Analysis:** Wireshark, Nmap
 - **Ticketing:** ServiceNow (Personal Developer Instance)
-- **Training:** TryHackMe SOC Level 1 Path
+- **Training:** TryHackMe SOC Level 1 Path / Hack The Box
+- **Certifications:** CompTIA Security+ (DoD 8570) | Cisco CCNA
 
 ---
 
@@ -30,6 +32,7 @@ This repository documents my hands-on cybersecurity training journey as I transi
 | Apr 4, 2026 | Alert Triage (3 alerts) | TryHackMe SIEM | True/False positive classification using context analysis |
 | Apr 5, 2026 | SPL Log Analysis | Splunk | Detected brute force attack chain and post-exploitation /etc/passwd access |
 | May 24, 2026 | Phishing Analysis Fundamentals | TryHackMe, CyberChef, Thunderbird | Email header analysis, base64 attachment decoding, display name spoofing detection |
+| May 31, 2026 | OSINT Multi-IP Investigation | VirusTotal, AbuseIPDB | 3 IPs investigated — 1 confirmed malicious (194.165.16.11), bulletproof hosting identified |
 
 ## TryHackMe Progress
 
@@ -48,6 +51,14 @@ This repository documents my hands-on cybersecurity training journey as I transi
 - Documented full Tier 1 SOC response workflow
 - [View Lab](lab-journal/osint-ioc-investigation/lab-osint-ioc-investigation.md)
 
+---
+
+### Lab 3 — OSINT Multi-IP Investigation | May 31, 2026
+- Investigated 3 IPs using VirusTotal and AbuseIPDB
+- 2 clean verdicts + 1 confirmed malicious (194.165.16.11)
+- Identified bulletproof hosting infrastructure (Flyservers S.A.)
+- Documented discrepancy analysis between threat intel sources
+- [View Lab](lab-journal/osint-multi-ip-investigation/lab3-osint-multi-ip-investigation.md)
 
 ## Certifications
 
